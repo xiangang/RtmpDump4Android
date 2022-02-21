@@ -1,0 +1,2 @@
+# RtmpDump4Android
+Android使用CMake编译RtmpDump为libRtmp并推流的示例
